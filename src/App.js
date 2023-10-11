@@ -9,7 +9,13 @@ function App() {
         <WeatherSearch />
         <br />
         <p>
-          This project was coded by Adeline and is <a href="#">Open-sourced</a>{" "}
+          This project was coded by Adeline and is{" "}
+          <a
+            href="https://github.com/Adi26-pixel/weather-react-app.git"
+            target="_blank"
+            rel="noreferrer">
+            Open-sourced
+          </a>{" "}
           on GitHub
         </p>
       </header>
